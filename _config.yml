@@ -2,7 +2,6 @@
 title: Eddie Blog
 SEOTitle: Eddie的博客 | Eddie Blog
 header-img: img/home-bg.jpg
-email: huxpro@gmail.com
 description: "关于程序与设计、数据挖掘 这里是 @Eddie 的个人博客，与你一起发现更大的世界。"
 url: "Endless-Android.github.io"             
 baseurl: ""                             
@@ -15,18 +14,6 @@ RSS: false
 
 #facebook_username:  huxpro
 #linkedin_username:  firstname-lastname-idxxxx
-
-
-
-# Build settings
-# from 2016, 'pygments' is unsupported on GitHub Pages. Use 'rouge' for highlighting instead.
-highlighter: rouge
-permalink: pretty
-paginate: 10
-exclude: ["less","node_modules","Gruntfile.js","package.json","README.md","README.zh.md"]
-anchorjs: true                          # if you want to customize anchor. check out line:181 of `post.html`
-# If you have timezone issue (e.g. #68) in China, uncomment to use this:
-#timezone: CN  
 
 
 
