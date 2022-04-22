@@ -12,11 +12,6 @@ future: true
 # SNS settings
 RSS: false
 
-#facebook_username:  huxpro
-#linkedin_username:  firstname-lastname-idxxxx
-
-
-
 # Gems
 # from PR#40, to support local preview for Jekyll 3.0
 # make sure you have this gem installed
